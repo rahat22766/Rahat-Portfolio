@@ -254,6 +254,10 @@ header .logo img{
     width:100%;
   }
 
+  .frontpage-containar h1{
+    font-size:40px;
+  }
+
   .main-cart{
     grid-template-columns: repeat(2, 1fr);
   }
