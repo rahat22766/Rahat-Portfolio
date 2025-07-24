@@ -1,7 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+
 *{
   margin:0;
   padding:0;
   box-sizing:border-box;
+}
+
+body{
+  font-family: 'Noto Serif', serif;
 }
 
 header{
@@ -30,6 +36,7 @@ header .logo img{
   color:white;
   font-weight: 600;
   text-transform: uppercase;
+  font-size:12px;
 }
 
 .btn:hover{
