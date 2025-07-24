@@ -115,7 +115,7 @@ header .logo img{
  }
 
 .chall-box1 {
-  background: url(../images/deal-bloom.png);
+  background: url(/Rahat-Portfolio/images/deal-bloom.png);
   grid-column: 1;
   grid-row: 1;
   padding: 20px;
