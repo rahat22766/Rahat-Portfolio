@@ -127,7 +127,7 @@ header .logo img{
 }
 
 .chall-box2 {
-  background: url(../images/deal-ana.png);
+  background: url(/Rahat-Portfolio/images/deal-ana.png);
   grid-column: 1;
   grid-row: 2;
   padding: 20px;
@@ -139,7 +139,7 @@ header .logo img{
 }
 
 .chall-box3 {
-  background: url(../images/deal-zabo.png);
+  background: url(/Rahat-Portfolio/images/deal-zabo.png);
   grid-column: 2;
   grid-row: 1 / span 2;
   padding: 20px;
@@ -192,7 +192,7 @@ header .logo img{
   }
   
   .subscribe-containar{
-    background-image: url(../images/news-letter-bg.png);
+    background-image: url(/Rahat-Portfolio/images/news-letter-bg.png);
     background-size:cover;
     height:500px;
     
